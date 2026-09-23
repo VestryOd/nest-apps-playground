@@ -1,0 +1,1 @@
+ALTER TABLE refresh_tokens RENAME COLUMN replace_by_token_id TO replaced_by_token_id;
